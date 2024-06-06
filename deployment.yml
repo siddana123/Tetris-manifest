@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: siddu654321/tetrisv2.1:latest
+        image: siddu654321/tetrisv2.2:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
